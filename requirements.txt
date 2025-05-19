@@ -1,0 +1,5 @@
+ipympl
+ipywidgets
+matplotlib
+pandas
+scikit-learn
