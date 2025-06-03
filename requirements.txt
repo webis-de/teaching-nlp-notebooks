@@ -2,4 +2,5 @@ ipympl
 ipywidgets
 matplotlib
 pandas
+requests
 scikit-learn
