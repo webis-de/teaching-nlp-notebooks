@@ -1,5 +1,9 @@
-# Notebooks
+<p align="center">
+   <img width=120px src="owl.svg">
+   <h1 align="center">Notebooks for NLP</h1>
+</p>
 
+## Getting started
 The fastest and easiest way to run our tutorials is to use Github Codespaces. Just click on the button below which will start a remote session with everything installed already:
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/TheMrSheldon/teaching-nlp-notebooks?quickstart=1)
