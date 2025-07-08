@@ -21,6 +21,7 @@ Our basic tutorials cover the most important concepts of natural language proces
 | Central Limit Theorem                                 | [🔗](basics-04-central-limit-theorem.ipynb) | [💻](https://github.com/codespaces/new/webis-de/teaching-nlp-notebooks/tree/main/basics-04-central-limit-theorem.ipynb?quickstart=1) |
 | Pointwise Mutual Information                          | [🔗](basics-05-ppmi.ipynb)                  | [💻](https://github.com/codespaces/new/webis-de/teaching-nlp-notebooks/tree/main/basics-05-ppmi.ipynb.ipynb?quickstart=1)            |
 | Lesk Algorithm                                        | [🔗](basics-06-lesk.ipynb)                  | [💻](https://github.com/codespaces/new/webis-de/teaching-nlp-notebooks/tree/main/basics-06-lesk.ipynb.ipynb?quickstart=1)            |
+| PCA, SVD, and LSA                                     | [🔗](basics-07-pca-svd.ipynb)               | [💻](https://github.com/codespaces/new/webis-de/teaching-nlp-notebooks/tree/main/basics-07-pca-svd.ipynb.ipynb?quickstart=1)         |
 
 ## Advanced
 | Topic                                                 | Jupyter Notebook                            | Open in Codespaces                                                                                                                   |
